@@ -1,0 +1,1 @@
+Collat is a decentralized money market and lending protocol built on Ethereum Classic. The Collat protocol enables users to borrow or lend from single-collateral pools of base assets.
